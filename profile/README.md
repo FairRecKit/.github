@@ -35,3 +35,9 @@ Vos Wesseling,          Fern Wieland
 
 If you use FairRecKit in published research, please cite:
 > Christine Bauer, Lennard Chung, Aleksej Cornelissen, Isabelle van Driessel, Diede van der Hoorn, Yme de Jong, Lan Le, Sanaz Najiyan Tabriz, Roderick Spaans, Casper Thijsen, Robert Verbeeten, Vos Wesseling, & Fern Wieland (2023). FairRecKit: A Web-based analysis software for recommender evaluations. Proceedings of the 8th ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR 2023), Austin, TX, USA, 19–23 March. DOI: [10.1145/3576840.3578274](https://doi.org/10.1145/3576840.3578274)
+
+---
+## Teaser video
+
+[![Teaser video for FairRecKit](https://img.youtube.com/vi/6C1cRpy4b44/hqdefault.jpg)](https://www.youtube.com/watch?v=6C1cRpy4b44)
+
