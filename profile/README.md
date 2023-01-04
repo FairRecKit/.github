@@ -22,7 +22,7 @@ and a web-based user interface ([FairRecKitApp](https://github.com/FairRecKit/Fa
 
 ---
 
-FairRecKit has been developed by students from the bachelor Computer Science program at Utrecht University within the Software Project course, commissioned by Christine Bauer.
+FairRecKit has been developed by students from the Bachelor program Computer Science at Utrecht University within the Software Project course, commissioned by Christine Bauer.
 
 Lennard Chung,          Aleksej Cornelissen,
 Isabelle van Driessel,  Diede van der Hoorn,
